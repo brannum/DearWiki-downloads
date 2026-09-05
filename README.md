@@ -12,7 +12,7 @@ These installers are for **64-bit Intel/AMD Linux desktops (x86-64 / amd64)**, n
 | [DEB](https://github.com/brannum/DearWiki-downloads/releases/download/v1.0.4/DearWiki-1.0.4-linux-amd64.deb) | Ubuntu/Debian-based package installation |
 | [SHA256SUMS](https://github.com/brannum/DearWiki-downloads/releases/download/v1.0.4/SHA256SUMS) | Verify downloaded files |
 
-Read the [installation and update instructions](INSTALL.md) and [release notes](https://github.com/brannum/DearWiki-downloads/releases/tag/v1.0.4). The Snap Store stable release is pending; use the verified direct downloads above for now.
+Read the [installation and update instructions](INSTALL.md) and [release notes](https://github.com/brannum/DearWiki-downloads/releases/tag/v1.0.4). DearWiki is also available from the [Snap Store](https://snapcraft.io/dearwiki) on the stable channel.
 
 ## Your data and account
 
