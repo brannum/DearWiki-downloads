@@ -1,0 +1,32 @@
+DearWiki Proprietary Source and Binary License
+Version 1.0 — August 13, 2026
+
+Copyright (c) 2026 DearWiki. All rights reserved.
+
+The DearWiki application, source code, original artwork, documentation, and
+other original materials in this distribution (collectively, “DearWiki”) are
+proprietary and confidential except where a file or accompanying notice
+expressly identifies different terms.
+
+No permission is granted to copy, modify, publish, distribute, sublicense, sell,
+host, or create derivative works of DearWiki source code or original assets.
+Possession of source code does not grant a source license.
+
+An authorized end user who lawfully acquires a DearWiki binary may install and
+use that binary under the DearWiki End User License Agreement included as
+EULA.md and any non-waivable terms of the storefront through which it was
+acquired. Reasonable copies made automatically for installation, device backup,
+or disaster recovery are permitted for that user's own use.
+
+This license does not claim ownership of a user's notes, Markdown vaults,
+attachments, WebDAV data, backups, or exports. Expiration or termination of any
+future service does not restrict the user's possession or use of those files.
+
+DearWiki includes third-party components under separate open-source or other
+licenses. Those components remain governed by their respective terms. Nothing
+in this license limits rights granted by a third-party license. See
+THIRD_PARTY_NOTICES.md and the license files accompanying those components.
+
+Except to the extent prohibited by law, DearWiki is provided “as is,” without
+warranties or conditions of any kind. Mandatory consumer rights are not
+excluded. For licensing questions, contact support@dearwiki.com.
